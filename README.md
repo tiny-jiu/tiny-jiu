@@ -27,11 +27,11 @@
     </td>
     <td width="64%" valign="top">
       <h2>Selected Projects</h2>
+      <a href="https://github.com/tiny-jiu/EdgeOne-Challenge"><img src="./assets/projects/edgeone-card.svg" alt="EdgeOne Challenge project card" width="49%" /></a>
+      <a href="https://github.com/tiny-jiu/MIIT-Challenge"><img src="./assets/projects/miit-card.svg" alt="MIIT Challenge project card" width="49%" /></a>
+      <br /><br />
       <a href="https://github.com/tiny-jiu/Yidun-Slider-Crypto"><img src="./assets/projects/yidun-card.svg" alt="Yidun Slider Crypto project card" width="49%" /></a>
       <a href="https://github.com/tiny-jiu/SafeLine-Challenge"><img src="./assets/projects/safeline-card.svg" alt="SafeLine Challenge project card" width="49%" /></a>
-      <br /><br />
-      <a href="https://github.com/tiny-jiu/BT-WAF-Auto-Verify"><img src="./assets/projects/bt-waf-card.svg" alt="BT WAF Auto Verify project card" width="49%" /></a>
-      <a href="https://github.com/tiny-jiu/UUSEC-Rotate-Angle"><img src="./assets/projects/uusec-card.svg" alt="UUSEC Rotate Angle project card" width="49%" /></a>
       <h3>Contribution Streak</h3>
       <img src="https://streak-stats.demolab.com?user=tiny-jiu&hide_border=true&border_radius=8&background=F5F2E9&ring=6F918B&fire=B39A62&currStreakNum=343B3D&sideNums=343B3D&currStreakLabel=6F8794&sideLabels=6F918B&dates=7B7B73&cache_seconds=1800" alt="GitHub contribution streak" width="100%" />
       <br /><br />
