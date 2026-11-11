@@ -7,7 +7,7 @@
 <table width="100%">
   <tr>
     <td width="36%" valign="top">
-      <h2>Xiao Jiu</h2>
+      <h2>tiny-jiu</h2>
       <p><code>@tiny-jiu</code></p>
       <p>Still figuring things out,<br />but finding a little beauty along the way.</p>
       <h3>Interests</h3>
