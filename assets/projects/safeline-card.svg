@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" role="img" aria-labelledby="title desc">
-  <title id="title">SafeLine Challenge</title><desc id="desc">A clean take on the SafeLine challenge flow. Python.</desc>
+  <title id="title">雷池 WAF 行为验证绕过</title><desc id="desc">清晰解析雷池行为验证流程。使用 Python。</desc>
   <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F3EA"/><stop offset="1" stop-color="#E8EDF0"/></linearGradient></defs>
   <rect width="400" height="170" rx="8" fill="url(#paper)" stroke="#D4D1C6"/>
   <path d="M0 0h116v4H0z" fill="#6F918B"/><path d="M116 0h48v4h-48z" fill="#6F8794"/>
   <path d="M278 151c36-19 68-14 122-29v48H267z" fill="#6F8794" opacity=".08"/>
   <g transform="translate(20 22) scale(.72)" fill="none" stroke="#4B5556" stroke-width="2.2" stroke-linejoin="round"><path d="M3 7h8l3 4h12v18H3z"/><path d="M3 12h23"/></g>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="51" y="43" fill="#30383A" font-size="21" font-weight="600">SafeLine-Challenge</text>
-    <text x="20" y="88" fill="#66706F" font-size="15">A clean take on the SafeLine challenge flow.</text>
+  <g font-family="Segoe UI, Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Arial, sans-serif">
+    <text x="51" y="43" fill="#30383A" font-size="21" font-weight="600">雷池WAF行为验证绕过</text>
+    <text x="20" y="88" fill="#66706F" font-size="15">清晰解析雷池行为验证流程。</text>
     <rect x="20" y="129" width="9" height="3" fill="#6F918B"/><text x="38" y="139" fill="#4B5556" font-size="14">Python</text>
-    <text x="375" y="139" text-anchor="end" fill="#747A77" font-size="13">0 stars · 0 forks</text>
+    <text x="375" y="139" text-anchor="end" fill="#747A77" font-size="13">0 个星标 · 0 个复刻</text>
   </g>
 </svg>
